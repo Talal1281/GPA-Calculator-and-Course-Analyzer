@@ -5,8 +5,6 @@ This project streamlines academic performance management and analysis. Developed
 
 ### Description
 
-**CGPA Toolkit: GPA Calculator and Course Analyzer**: This project is a comprehensive tool designed to simplify the management and analysis of academic performance. Built using Python with a user-friendly GUI powered by Tkinter, it enables users to calculate CGPA, analyze course contributions, and generate detailed PDF reports.  
-
 - **Automatically CGPA Calculator**: Users can upload a CSV file containing course names, GPAs, and credits. The tool then automatically calculates the GPA from this data, providing detailed insights and a comprehensive breakdown of academic performance.
  
 - **Manual CGPA Calculator**: The application allows users to add course information manually through a dedicated interface. Each course can be entered with its name, the GPA achieved, and the credit hours. This data is stored in a list and utilized for various calculations, such as CGPA.
